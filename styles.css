@@ -1,0 +1,75 @@
+body {
+  background-color: #f2e9d0;
+  padding-top: 150px;
+}
+
+h1 {
+  text-align: center;
+  margin: 75px auto;
+  padding-bottom: 75px;
+  padding-top: 75px;
+}
+
+
+/* /////////////////////////////////////////////////////////////////////////////////////Title */
+
+.navbar-brand {
+  margin: 1px;
+  position: absolute;
+  font-size: 1.8rem;
+  font-weight: 400;
+  left: 2.5rem;
+}
+
+.nav-item {
+  font-weight: 400;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.dropdown-menu {
+  background-color: #f8f9fa;
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////about us  */
+#about-us .infobox {
+  background-color: #fff9b0;
+  padding: 70px 30px;
+  height: 400px;
+  width: 70%;
+  margin: 0 auto;
+}
+
+#work .infobox {
+  background-color: #e3d18a;
+  padding: 70px 30px;
+  height: 400px;
+  width: 70%;
+  margin: 0 auto 150px;
+}
+
+
+#contacts .infobox {
+  background-color: #fff9b0;
+  padding: 70px 30px;
+  /* height: 400px; */
+  width: 70%;
+  margin: 150px auto;
+}
+
+
+#footer .container-fluid {
+  background-color: #9e7540;
+  text-align: center;
+  padding: 30px;
+  font-weight: 600;
+  height: 80px;
+  width: 100%;
+}
+
+.links {
+  text-align: center;
+}
+
+.linklink {
+  margin: 1px 5rem;
+}
